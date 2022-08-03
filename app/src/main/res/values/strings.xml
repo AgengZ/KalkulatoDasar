@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">KalkulatoDasar</string>
+    <string name="Header">MASUKKAN DUA ANGKA</string>
+    <string name="Label_Bil_Pertama">Masukkan Bilangan Pertama</string>
+    <string name="Label_Bil_Kedua">Masukkan Bilangan Kedua</string>
+    <string name="Label_Plus">+</string>
+    <string name="Label_Minus">-</string>
+    <string name="Label_Kali">X</string>
+    <string name="Label_Bagi">/</string>
+    <string name="Label_Clear">C</string>
+    <string name="Labeh_Header_Hasil">HASIL</string>
+    <string name="Label_Hasil">0</string>
+</resources>
